@@ -1,0 +1,5 @@
+---
+applications:
+- name: owasp-juice-shop
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+  memory: 2G
